@@ -1,4 +1,4 @@
-const expect = chai.expect;
+cost expect = chai.expect;
 
 describe('index.js', function () {
   describe('scuberGreetingForFeet()', function () {
